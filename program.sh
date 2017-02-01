@@ -9,3 +9,4 @@ echo subtraction of given numbers is = $((num1-num2-num3))
 echo ""
 echo Multiplication of given numbers is = $((num1*num2*num3))
 echo ""
+echo Division of given numbers is = $((num1/num2/num3))
